@@ -9,7 +9,7 @@ I have not big experience in programming, i studing at Misis in magistarcy and l
 My stack:
 <ul>
 <li>Python 3.8+</li>
-<li>Django</li>
+<li>Django + FastAPI</li>
 <li>MySQL</li>
 <li>Git + Github + Github actions</li>
 <li>Docker</li>
