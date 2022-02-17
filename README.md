@@ -14,6 +14,7 @@ My stack:
 <li>Git + Github + Github actions</li>
 <li>Docker</li>
 <li>Pandas</li>
+<li>Unit tests</li>
 </ul>
 
 Also i have experience of administarting computers on Windows and Linux systems. I have 2 telegram bots, first is bot-calculator, second is bot for small business, where u can buy something and pay for it, with integration mini CRM system.
