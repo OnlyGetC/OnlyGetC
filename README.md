@@ -13,7 +13,7 @@ My stack:
 <li>MySQL</li>
 <li>Git + Github + Github actions</li>
 <li>Docker</li>
-<li>Pandas</li>
+<li>Pandas, SCiKitLearn, MatPlotLib</li>
 <li>Unit tests</li>
 </ul>
 
