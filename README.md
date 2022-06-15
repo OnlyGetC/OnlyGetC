@@ -13,8 +13,9 @@ My stack:
 <li>MySQL</li>
 <li>Git + Github + Github actions</li>
 <li>Docker</li>
-<li>Pandas, SCiKitLearn, MatPlotLib</li>
+<li>Pandas, SCiKitLearn, MatPlotLib, TensorFlow2</li>
 <li>Unit tests</li>
+<li>Dask, cuML, cuDF,cuPy, XGBoost</li>
 </ul>
 
 Also i have experience of administarting computers on Windows and Linux systems. I have 2 telegram bots, first is bot-calculator, second is bot for small business, where u can buy something and pay for it, with integration mini CRM system.
