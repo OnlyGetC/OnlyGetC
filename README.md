@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @OnlyGetC
 - 👀 I’m interested in Python, Django, FastAPI, Data Science
 - 🌱 I’m currently learning programming world and Data science
-- 💞️ I’m looking to collaborate on IT-company
-- 📫 How to reach me? Fing me on Telegram: @OnlyGetC
+- 💞️ I’m looking to collaborate to interesting project
+- 📫 How to reach me? Fing me on Telegram: <a href= "https://t.me/OnlyGetC"> @OnlyGetC </a></b>
 
-I have not big experience in programming, i studing at Misis in magistarcy and learning ML, Big data, algorithms, data structures and design patterns.
+I have not big experience in programming, i working at Consyst-os and studing at Misis in magistarcy and learning ML, Big data, algorithms, data structures and design patterns.
 
 My stack:
 <ul>
